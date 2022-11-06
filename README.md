@@ -10,4 +10,6 @@ Created and configured an Azure Files shares
 
 Managed network access for Azure Storage
 
+Architecture Diagram
+
 ![Alt text](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/media/lab07.png "Optional title")
